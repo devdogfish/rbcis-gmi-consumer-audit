@@ -26,32 +26,32 @@ GMI is a shared service used by RBC Investor Services pages to retrieve informat
 
 ## 2. Confirmed public page-to-script imports
 
-| # | Public page | Listed filename | Resolved file | Import |
-|---:|---|---|---|---|
-| 1 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `market-newsflash-25.js` | `market-newsflash-25.js` | Direct script tag |
-| 2 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `media-inquiries-responsive.js` | `media-inquiries-responsive.js` | Direct script tag |
-| 3 | [English global custody](https://www.rbcis.com/en/gmi/global-custody.page) | `mainpage.js` | `mainpage.js` | Direct script tag |
-| 4 | [English terms and conditions](https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
-| 5 | [English tax profiles](https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page) | `tax-bulletins-23.js` | `tax-bulletins-23.js` | Direct script tag |
-| 6 | [English market profiles](https://www.rbcis.com/en/gmi/global-custody/market-profiles.page) | `market-profiles.js` | `market-profiles.js` | Direct script tag |
-| 7 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | `jspdf.min.js` | Direct script tag |
-| 8 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | `jspdf.plugin.autotable.min.js` | Direct script tag |
-| 9 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-26-1-bundle.js` | `holiday-calendar-26-1-bundle.js` | Direct script tag |
-| 10 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | `hide-holidays.js` | Direct script tag |
-| 11 | [English updates](https://www.rbcis.com/en/gmi/global-custody/updates.page) | `updates-25-js` | `updates-25.js` | Direct script tag |
-| 12 | [English GMI tax bulletins login page](https://www.rbcis.com/en/login/gmi-tax-bulletins.page) | `secnav-Js` | `secnav.js` | Direct script tag |
-| 13 | [French global custody](https://www.rbcis.com/fr/gmi/global-custody.page) | `mainpage.js` | `mainpage.js` | Direct script tag |
-| 14 | [English GMI terms login page](https://www.rbcis.com/en/login/gmi-terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
-| 15 | [French market newsflash](https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page) | `market-newsflash-25-fr.js` | `market-newsflash-25-fr.js` | Direct script tag |
-| 16 | [French terms and conditions](https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
-| 17 | [French tax profiles](https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page) | `tax-bulletins.js` | `tax-bulletins.js` | Direct script tag |
-| 18 | [French market profiles](https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page) | `market-profiles.js` | `market-profiles.js` | Direct script tag |
-| 19 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | `jspdf.min.js` | Direct script tag |
-| 20 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | `jspdf.plugin.autotable.min.js` | Direct script tag |
-| 21 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-24.1-bundle.js` | `holiday-calendar-24.1-bundle.js` | Direct script tag |
-| 22 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | `hide-holidays.js` | Direct script tag |
-| 23 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar.js` | `holiday-calendar.js` | Direct script tag |
-| 24 | [French updates](https://www.rbcis.com/fr/gmi/global-custody/updates.page) | `updates-25-js` | `updates-25.js` | Direct script tag |
+| # | Public page | JavaScript file | GMI endpoint(s) | Authentication | Finding / notes |
+|---:|---|---|---|---|---|
+| 1 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `market-newsflash-25.js` | `/GMIService/api/Search?gmiFormId=1&count=20`<br>`/GMIService/api/Search?gmiFormId=1` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
+| 2 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `media-inquiries-responsive.js` | None detected | Not applicable | Responsive-page utility; no GMI call found in this file. |
+| 3 | [English global custody](https://www.rbcis.com/en/gmi/global-custody.page) | `mainpage.js` | `/GMIService/api/Search?gmiFormId=1&count=4`<br>`/GMIService/api/Search?gmiFormId=3&count=4` | No explicit authentication observed | Two client-side GMI GET calls confirmed; cookies may still apply. |
+| 4 | [English terms and conditions](https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page) | `secnav.js` | None detected | Not applicable | Navigation utility; no GMI call found in this file. |
+| 5 | [English tax profiles](https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page) | `tax-bulletins-23.js` | `/GMIService/api/Search?gmiFormId=2&count=20`<br>`/GMIService/api/Search?gmiFormId=2` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
+| 6 | [English market profiles](https://www.rbcis.com/en/gmi/global-custody/market-profiles.page) | `market-profiles.js` | None detected | Not applicable | Imported by the page; no GMI call found in this file. |
+| 7 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | None detected | Not applicable | PDF-generation library; no GMI call found. |
+| 8 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | None detected | Not applicable | PDF-table plugin; no GMI call found. |
+| 9 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-26-1-bundle.js` | `/GMIService/api/Search?gmiFormId=5&date=self.selectedDay()`<br>`/GMIService/api/Search?gmiFormId=5` | No explicit authentication observed | Two client-side GMI GET calls confirmed; cookies may still apply. |
+| 10 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | None detected | Not applicable | Calendar display helper; no GMI call found. |
+| 11 | [English updates](https://www.rbcis.com/en/gmi/global-custody/updates.page) | `updates-25.js` | `/GMIService/api/Search?gmiFormId=3&count=10`<br>`/GMIService/api/Search?gmiFormId=3` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
+| 12 | [English GMI tax bulletins login page](https://www.rbcis.com/en/login/gmi-tax-bulletins.page) | `secnav.js` | None detected | Not applicable | Navigation utility; no GMI call found in this file. |
+| 13 | [French global custody](https://www.rbcis.com/fr/gmi/global-custody.page) | `mainpage.js` | `/GMIService/api/Search?gmiFormId=1&count=4`<br>`/GMIService/api/Search?gmiFormId=3&count=4` | No explicit authentication observed | Two client-side GMI GET calls confirmed; cookies may still apply. |
+| 14 | [English GMI terms login page](https://www.rbcis.com/en/login/gmi-terms-and-conditions.page) | `secnav.js` | None detected | Not applicable | Navigation utility; no GMI call found in this file. |
+| 15 | [French market newsflash](https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page) | `market-newsflash-25-fr.js` | `/GMIService/api/Search?gmiFormId=1&count=20`<br>`/GMIService/api/Search?gmiFormId=1` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
+| 16 | [French terms and conditions](https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page) | `secnav.js` | None detected | Not applicable | Navigation utility; no GMI call found in this file. |
+| 17 | [French tax profiles](https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page) | `tax-bulletins.js` | `/GMIService/api/Search?gmiFormId=2&count=20`<br>`/GMIService/api/Search?gmiFormId=2` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
+| 18 | [French market profiles](https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page) | `market-profiles.js` | None detected | Not applicable | Imported by the page; no GMI call found in this file. |
+| 19 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | None detected | Not applicable | PDF-generation library; no GMI call found. |
+| 20 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | None detected | Not applicable | PDF-table plugin; no GMI call found. |
+| 21 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-24.1-bundle.js` | `/GMIService/api/Search?gmiFormId=5&date=self.selectedDay()`<br>`/GMIService/api/Search?gmiFormId=5` | No explicit authentication observed | Two client-side GMI GET calls confirmed; cookies may still apply. |
+| 22 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | None detected | Not applicable | Calendar display helper; no GMI call found. |
+| 23 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar.js` | `/GMIService/api/Search?gmiFormId=5&date=self.selectedDay()`<br>`/GMIService/api/Search?gmiFormId=5` | No explicit authentication observed | Two client-side GMI GET calls confirmed; one uses jQuery shorthand. |
+| 24 | [French updates](https://www.rbcis.com/fr/gmi/global-custody/updates.page) | `updates-25.js` | `/GMIService/api/Search?gmiFormId=3&count=10`<br>`/GMIService/api/Search?gmiFormId=3` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
 
 ## Included files
 
