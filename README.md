@@ -53,16 +53,17 @@ GMI is a shared service used by RBC Investor Services pages to retrieve informat
 | 23 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar.js` | `/GMIService/api/Search?gmiFormId=5&date=self.selectedDay()`<br>`/GMIService/api/Search?gmiFormId=5` | No explicit authentication observed | Two client-side GMI GET calls confirmed; one uses jQuery shorthand. |
 | 24 | [French updates](https://www.rbcis.com/fr/gmi/global-custody/updates.page) | `updates-25.js` | `/GMIService/api/Search?gmiFormId=3&count=10`<br>`/GMIService/api/Search?gmiFormId=3` | Client-embedded Basic | Two client-side GMI GET calls confirmed. |
 
-## Included files
+## How to use the attached workbook
 
-- `rbcis-gmi-consumer-audit.xlsx`: complete review workbook.
-- `data/apps.rbcits.com-gmi-consumers.csv`: consumer records for the apps domain.
-- `data/www.rbcis.com-gmi-consumers.csv`: consumer records for the main domain.
-- `data/page-imports.csv`: the 24 confirmed page-to-script relationships above.
-- `data/script-inventory.csv`: all 115 supplied scripts and their review status.
-- `data/coverage-log.csv`: public crawl coverage and outcomes.
-- `scripts-filenames.txt`: supplied 115-file inventory used for reconciliation.
-- `scripts/`: the Python used for the crawl, source inspection, and reconciliation.
+Start with the two domain sheets for the detailed consumer records, then use the supporting sheets when more context is needed:
+
+- **apps.rbcits.com**: the DRIP page finding.
+- **www.rbcis.com**: detailed GMI consumer records, including public-page and unmapped source findings.
+- **Page Imports**: the 24 confirmed public page-to-JavaScript relationships summarized above.
+- **Script Inventory**: all 115 reviewed scripts, including call counts, authentication classification, and whether a public importing page was found.
+- **Coverage**: crawl scope, totals, excluded URLs, method, and limitations.
+
+Each detailed consumer row identifies the page, JavaScript source, line, endpoint, request method, execution side, page access, authentication classification, call mechanism, confidence, and a plain-language summary.
 
 ## How this was produced
 
