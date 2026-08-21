@@ -1,0 +1,73 @@
+# RBCIS public GMI consumer audit
+
+## What this report is about
+
+GMI is a shared service used by RBC Investor Services pages to retrieve information such as market updates, calendars, tax material, and other custody content. Some public pages communicate with GMI directly from a visitor's browser. Browser-side calls and their supporting JavaScript are visible to the public, so calls that include embedded authentication deserve review even when the underlying content is intended to be public. This audit identifies where those calls appear; it does not by itself claim that every occurrence is exploitable.
+
+## Main findings
+
+- 593 candidate URLs checked across `www.rbcis.com` and `apps.rbcits.com`.
+- 284 reachable public HTML pages reviewed: 253 on `www.rbcis.com` and 31 on `apps.rbcits.com`.
+- 115 of 115 supplied GMI JavaScript files inspected.
+- 77 scripts contain GMI calls; 64 contain client-embedded authentication.
+- 24 confirmed page-to-script imports involving 15 distinct supplied scripts.
+- 168 GMI consumer records: 23 mapped to public pages and 145 source-only records with no importing public page found.
+- 68 GMI-calling scripts remain unmapped to the reachable public pages reviewed.
+
+## How to read the results
+
+**Public** means a call was connected to a reachable public page. **Unmapped** means the JavaScript contains a GMI call, but no importing page was found in the public page set; it does not mean the script is unused. **Client-embedded authentication** means authentication material was present in publicly delivered JavaScript. Credential values were deliberately excluded from every published file.
+
+## 1. DRIP page example
+
+| Page | JavaScript source | GMI endpoint | Request | Access | Authentication | Summary |
+|---|---|---|---|---|---|---|
+| [apps.rbcits.com/gmi/drip](https://apps.rbcits.com/gmi/drip/) | Inline page script | `/GMIService/api/DripReport` | Client-side `GET` using `jQuery.ajax` | Public | Client-embedded Basic authentication | The public DRIP page directly requests a GMI report from the visitor's browser. |
+
+## 2. Confirmed public page-to-script imports
+
+| # | Public page | Listed filename | Resolved file | Import |
+|---:|---|---|---|---|
+| 1 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `market-newsflash-25.js` | `market-newsflash-25.js` | Direct script tag |
+| 2 | [English market newsflash](https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page) | `media-inquiries-responsive.js` | `media-inquiries-responsive.js` | Direct script tag |
+| 3 | [English global custody](https://www.rbcis.com/en/gmi/global-custody.page) | `mainpage.js` | `mainpage.js` | Direct script tag |
+| 4 | [English terms and conditions](https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
+| 5 | [English tax profiles](https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page) | `tax-bulletins-23.js` | `tax-bulletins-23.js` | Direct script tag |
+| 6 | [English market profiles](https://www.rbcis.com/en/gmi/global-custody/market-profiles.page) | `market-profiles.js` | `market-profiles.js` | Direct script tag |
+| 7 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | `jspdf.min.js` | Direct script tag |
+| 8 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | `jspdf.plugin.autotable.min.js` | Direct script tag |
+| 9 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-26-1-bundle.js` | `holiday-calendar-26-1-bundle.js` | Direct script tag |
+| 10 | [English holiday calendar](https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | `hide-holidays.js` | Direct script tag |
+| 11 | [English updates](https://www.rbcis.com/en/gmi/global-custody/updates.page) | `updates-25-js` | `updates-25.js` | Direct script tag |
+| 12 | [English GMI tax bulletins login page](https://www.rbcis.com/en/login/gmi-tax-bulletins.page) | `secnav-Js` | `secnav.js` | Direct script tag |
+| 13 | [French global custody](https://www.rbcis.com/fr/gmi/global-custody.page) | `mainpage.js` | `mainpage.js` | Direct script tag |
+| 14 | [English GMI terms login page](https://www.rbcis.com/en/login/gmi-terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
+| 15 | [French market newsflash](https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page) | `market-newsflash-25-fr.js` | `market-newsflash-25-fr.js` | Direct script tag |
+| 16 | [French terms and conditions](https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page) | `secnav-Js` | `secnav.js` | Direct script tag |
+| 17 | [French tax profiles](https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page) | `tax-bulletins.js` | `tax-bulletins.js` | Direct script tag |
+| 18 | [French market profiles](https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page) | `market-profiles.js` | `market-profiles.js` | Direct script tag |
+| 19 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.min.js` | `jspdf.min.js` | Direct script tag |
+| 20 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `jspdf.plugin.autotable.min.js` | `jspdf.plugin.autotable.min.js` | Direct script tag |
+| 21 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar-24.1-bundle.js` | `holiday-calendar-24.1-bundle.js` | Direct script tag |
+| 22 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `hide-holidays.js` | `hide-holidays.js` | Direct script tag |
+| 23 | [French holiday calendar](https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page) | `holiday-calendar.js` | `holiday-calendar.js` | Direct script tag |
+| 24 | [French updates](https://www.rbcis.com/fr/gmi/global-custody/updates.page) | `updates-25-js` | `updates-25.js` | Direct script tag |
+
+## Included files
+
+- `rbcis-gmi-consumer-audit.xlsx`: complete review workbook.
+- `data/apps.rbcits.com-gmi-consumers.csv`: consumer records for the apps domain.
+- `data/www.rbcis.com-gmi-consumers.csv`: consumer records for the main domain.
+- `data/page-imports.csv`: the 24 confirmed page-to-script relationships above.
+- `data/script-inventory.csv`: all 115 supplied scripts and their review status.
+- `data/coverage-log.csv`: public crawl coverage and outcomes.
+- `scripts-filenames.txt`: supplied 115-file inventory used for reconciliation.
+- `scripts/`: the Python used for the crawl, source inspection, and reconciliation.
+
+## How this was produced
+
+A recursive public-only crawl followed same-host links from the site roots, previously confirmed pages, and public discovery hints while skipping individual errors; every reachable page was then checked for direct script imports, loaded scripts were inspected for GMI request patterns and static or literal child-script references, and the results were reconciled against the supplied 115-file inventory. No authenticated pages were accessed, no requests were executed against discovered GMI endpoints, and no credential values were retained.
+
+## Limits
+
+The crawl reached an empty queue for its public discovery set, but no crawler can discover an entirely unlinked URL that is absent from all known sources; proving those orphan routes requires a CMS or origin route inventory. Computed runtime loaders, authenticated pages, and server-side consumers were outside this review.

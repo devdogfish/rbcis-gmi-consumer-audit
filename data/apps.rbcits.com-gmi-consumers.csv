@@ -1,0 +1,2 @@
+finding_id,page_url,js_source,line,endpoint_expression,http_method,execution_side,page_access,api_auth_type,call_mechanism,confidence,summary
+GMI-29592164,https://apps.rbcits.com/gmi/drip/,INLINE:https://apps.rbcits.com/gmi/drip/#block-1@L59,82,/GMIService/api/DripReport,GET,Client,Public,Client-embedded credential (Basic),jQuery.ajax,Confirmed source occurrence,Public page statically includes a client-side jQuery.ajax GET call to /GMIService/api/DripReport. Authentication: Client-embedded credential (Basic).

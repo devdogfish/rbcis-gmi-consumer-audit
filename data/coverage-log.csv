@@ -1,0 +1,962 @@
+host,url,resource_type,status,content_type,outcome,discovered_from,notes
+apps.rbcits.com,https://apps.rbcits.com/robots.txt,robots,200,text/plain,fetched,seed,candidate source only
+www.rbcis.com,https://www.rbcis.com/robots.txt,robots,200,text/plain,fetched,seed,candidate source only
+www.rbcis.com,https://www.rbcis.com/,page,200,text/html,scanned,seed,0 external scripts; 0 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/,page,200,text/html,scanned,seed,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/,page,200,text/html,scanned,seed,9 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,page,200,text/html,scanned,seed,11 external scripts; 4 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/,page,200,text/html,scanned,seed,0 external scripts; 0 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/gmi/drip/,page,200,text/html,scanned,seed,2 external scripts; 2 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/contact.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/pensioner-resources.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/home.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/asset-managers.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/insurance-companies.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/family-offices-investment-counsellors.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/pension-funds.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/custody-solutions.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/shareholder-services-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/fund-administration-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/etf-administrative-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/collateral-management-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/securities-finance-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/fx-solution.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/currency-overlay-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/unity-fx.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are.page,page,200,text/html,scanned,prior successful public page,11 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/leadership/our-leadership.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/citizenship.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/citizenship/investing-in-youth.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/citizenship/protecting-the-environment.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/citizenship/support-for-creatives.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/08/rbc_investor_services_named_operations_team_of_the_year,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/06/rbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody.page,page,200,text/html,scanned,prior successful public page,11 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/privacy.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/terms-of-use.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/disclaimers.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-uk.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/client-sign-in.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/home.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/asset-managers.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/insurance-companies.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/family-offices-investment-counsellors.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 0 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/pension-funds.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/custody-solutions.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 11 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/shareholder-services-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/fund-administration-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/etf-administrative-solutions.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/collateral-management-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/securities-finance-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/fx-solution.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/currency-overlay-solutions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/unity-fx.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are.page,page,200,text/html,scanned,prior successful public page,11 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/contact.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/leadership/our-leadership.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/investing-in-youth.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/protecting-the-environment.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/support-for-creatives.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/07/rbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/06/rbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,page,200,text/html,scanned,prior successful public page,9 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Ffx-spotlight-aug-26,page,200,text/html,scanned,prior successful public page,9 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fpooled-fund-survey-q2-26,page,200,text/html,scanned,prior successful public page,9 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/events.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/privacy.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/terms-of-use.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/disclaimers.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/market-profiles.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,page,200,text/html,scanned,prior successful public page,15 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 17 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/login/securities-lending.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/updates.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/login/gmi-tax-bulletins.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/report-on-controls.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/login/bbe.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/gmi/drip/faxsheet.html,page,200,text/html,scanned,prior successful public page,0 external scripts; 3 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-canada.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-guernsey.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in-bbe.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/login/investor-counsellor-services.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/awards-rankings.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/2023-market-services-transcript.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights/a-primer-on-etfs.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/fx-spotlight-aug-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/pooled-fund-survey-q2-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/canadian-pension-returns-q2-2026,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/share-class-hedging,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/monthly-forecast-update-jul26,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/ai-readiness-podcast,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/fx-spotlight-jul-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/06/market-regulatory-digest-jun26,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights/transcripts/who-we-are-video.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/insights/2025/05/getting_data_right,page,200,text/html,scanned,prior successful public page,12 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/canadian_defined_benefit,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/press-releases.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/regulators.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/code-of-conduct.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/privacy.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/make-a-complaint.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/srd-ii-costs-disclosure.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/cash-benchmark-rates.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/british-columbia-financial-institutions-act-filing.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/use-of-sub-processors-in-europe.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers/careers-internships.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/citizenship/supporting-emerging-artists.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/rbc-one.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/legal.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/document-centre-terms-of-use.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/european-privacy-policy-statement.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/complaint-handling-summary.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/event-and-conference-disclaimer-disclosure.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/communication-and-presentation-disclaimer-disclosure.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/rbcis-role-global-currencies-markets.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en,page,200,text/html,scanned,prior successful public page,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-canada.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-usa.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-france.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-guernsey.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-ireland.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-luxembourg.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-switzerland.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-uk.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-australia.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-china.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-hong-kong.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-malaysia.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/client-sign-in-bbe.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/login/investor-counsellor-services.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/banks-brokers-exchanges.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/insurers.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/investment-counsellors.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/sovereign-wealth-funds.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/awards-rankings.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Fshare-class-hedging,page,200,text/html,scanned,prior successful public page,9 external scripts; 11 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Ffx-spotlight-jul-26,page,200,text/html,scanned,prior successful public page,9 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/2023-market-services-transcript.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/monthly-forecast-update-aug26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/fx-spotlight-aug-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/pooled-fund-survey-q2-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/canadian-pension-returns-q2-2026,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/share-class-hedging,page,200,text/html,scanned,prior successful public page,12 external scripts; 12 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/monthly-forecast-update-jul26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/ai-readiness-podcast,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/fx-spotlight-jul-26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/06/market-regulatory-digest-jun26,page,200,text/html,scanned,prior successful public page,12 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/08/rbc_investor_services_named_operations_team_of_the_year,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/07/canadian_defined_benefit,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/regulators.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/code-of-conduct.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/report-on-controls.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/privacy.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/anti-money-laundering-certifications.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/make-a-complaint.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/srd-ii-costs-disclosure.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/british-columbia-financial-institutions-act-filing.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-internships.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-graduates.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-professionals.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-technology.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/governance-integrity.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-clients.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-employees.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-society.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_future_launch,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_race_for_the_kids,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_trade_for_the_kids,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/home,page,200,text/html,scanned,prior successful public page,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/legal.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/security.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/document-centre-terms-of-use.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/disclaimer/rbcis-role-global-currencies-markets.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/login/gmi-terms-and-conditions.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=3,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=8,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/bancoval2.html,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/Security/p_Security.aspx,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/Security/p_Security.aspx?lang=fr,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=1,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=2,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=3,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=7,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/bancoval2.html,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/web/comm/20131204-sprating.html,page,200,text/html,scanned,prior successful public page,0 external scripts; 0 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/r/linkedin,page,BLOCKED_REDIRECT,,excluded,prior successful public page,redirect target outside exact HTTPS/default-port scope: http://www.linkedin.com/groups/RBC-Investor-Services-3581177
+apps.rbcits.com,https://apps.rbcits.com/security/p_security.aspx,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/r/linkedin/,page,BLOCKED_REDIRECT,,excluded,prior successful public page,redirect target outside exact HTTPS/default-port scope: http://www.linkedin.com/groups/RBC-Investor-Services-3581177
+apps.rbcits.com,https://apps.rbcits.com/security/p_security.aspx?lang=fr,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/,page,200,text/html,scanned,prior successful public page,3 external scripts; 4 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/form.guides.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.guides.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/form.package.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.package.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.map.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.frontier.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.ucits.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/contact.asp,page,200,text/html,scanned,prior successful public page,0 external scripts; 1 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/index.asp,page,200,text/html,scanned,prior successful public page,3 external scripts; 4 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,page,200,text/html,scanned,prior successful public page,6 external scripts; 6 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_browsertest.aspx,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=1,page,200,text/html,scanned,prior successful public page,6 external scripts; 5 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_ViewfinderRecommendedTechnicalEnvironment.aspx,page,200,text/html,scanned,prior successful public page,6 external scripts; 9 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en
+www.rbcis.com,https://www.rbcis.com/fr,page,200,text/html,scanned,prior successful public page,9 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers/careers-graduates.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/pensioner-resources.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/pensioner-resources.page
+www.rbcis.com,https://www.rbcis.com/rbcits/client-sign-in.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/client-sign-in.page
+www.rbcis.com,https://www.rbcis.com/rbcits/home.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/home.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/asset-managers.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/asset-managers.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/insurance-companies.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/insurance-companies.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/family-offices-investment-counsellors.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/family-offices-investment-counsellors.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/pension-funds.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/pension-funds.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/custody-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/custody-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/shareholder-services-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/shareholder-services-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/fund-administration-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/fund-administration-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/etf-administrative-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/etf-administrative-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/collateral-management-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/collateral-management-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/securities-finance-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/securities-finance-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/fx-solution.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/fx-solution.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/currency-overlay-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/currency-overlay-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/unity-fx.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/how-we-help/unity-fx.page
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/our-insights.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/contact.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/contact.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/leadership/our-leadership.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/leadership/our-leadership.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/careers.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/careers.page
+www.rbcis.com,https://www.rbcis.com/rbcits/citizenship.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/citizenship.page
+www.rbcis.com,https://www.rbcis.com/rbcits/citizenship/investing-in-youth.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/citizenship/investing-in-youth.page
+www.rbcis.com,https://www.rbcis.com/rbcits/citizenship/protecting-the-environment.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/citizenship/protecting-the-environment.page
+www.rbcis.com,https://www.rbcis.com/rbcits/citizenship/support-for-creatives.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/citizenship/support-for-creatives.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/client-sign-in.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/client-sign-in.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/home.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/home.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/asset-managers.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/asset-managers.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/insurance-companies.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/insurance-companies.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/family-offices-investment-counsellors.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/family-offices-investment-counsellors.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/pension-funds.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/pension-funds.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/custody-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/custody-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/shareholder-services-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/shareholder-services-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/fund-administration-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/fund-administration-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/etf-administrative-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/etf-administrative-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/collateral-management-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/collateral-management-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/securities-finance-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/securities-finance-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/fx-solution.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/fx-solution.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/currency-overlay-solutions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/currency-overlay-solutions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/unity-fx.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/how-we-help/unity-fx.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/contact.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/contact.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/leadership/our-leadership.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/leadership/our-leadership.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/careers.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/careers.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/investing-in-youth.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/investing-in-youth.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/protecting-the-environment.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/protecting-the-environment.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/support-for-creatives.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/support-for-creatives.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Ffx-spotlight-aug-26,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Ffx-spotlight-aug-26
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fpooled-fund-survey-q2-26,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fpooled-fund-survey-q2-26
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/terms-and-conditions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/tax-profiles.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/market-profiles.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/market-profiles.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/holiday-calendar.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/entitlements.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/entitlements.page
+www.rbcis.com,https://www.rbcis.com/rbcits/login/securities-lending.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/securities-lending.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/updates.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/updates.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-canada.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/our-locations/contact-us-canada.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-guernsey.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/our-locations/contact-us-guernsey.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-uk.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/our-locations/contact-us-uk.page
+www.rbcis.com,https://www.rbcis.com/en/s/investor-counsellor-resources/reference-guide-agreementsandforms.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/investor-counsellor-services.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/press-releases.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/media/press-releases.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/regulators.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/regulators.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/code-of-conduct.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/code-of-conduct.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/report-on-controls.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/report-on-controls.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/privacy.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/privacy.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/make-a-complaint.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/make-a-complaint.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-related-to-market-data.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/srd-ii-costs-disclosure.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/srd-ii-costs-disclosure.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/cash-benchmark-rates.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/cash-benchmark-rates.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/british-columbia-financial-institutions-act-filing.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/british-columbia-financial-institutions-act-filing.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/careers/careers-internships.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/careers/careers-internships.page
+www.rbcis.com,https://www.rbcis.com/rbcits/citizenship/supporting-emerging-artists.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/citizenship/supporting-emerging-artists.page
+www.rbcis.com,https://www.rbcis.com/rbcits/client-sign-in/rbc-one.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/client-sign-in/rbc-one.page
+www.rbcis.com,https://www.rbcis.com/rbcits/gmi/global-custody/market-newsflash.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page
+www.rbcis.com,https://www.rbcis.com/en/s/bbe/canadian-custody-bulletins.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/bbe.page
+www.rbcis.com,https://www.rbcis.com/rbcits/legal.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/legal.page
+www.rbcis.com,https://www.rbcis.com/rbcits/disclaimers.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/disclaimers.page
+www.rbcis.com,https://www.rbcis.com/rbcits/terms-of-use.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/terms-of-use.page
+www.rbcis.com,https://www.rbcis.com/rbcits/document-centre-terms-of-use.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/document-centre-terms-of-use.page
+www.rbcis.com,https://www.rbcis.com/rbcits/privacy.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/privacy.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-canada.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-canada.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-usa.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-usa.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-france.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-france.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-guernsey.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-guernsey.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-ireland.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-ireland.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-luxembourg.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-luxembourg.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-switzerland.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-switzerland.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-uk.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-uk.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-australia.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-australia.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-china.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-china.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-hong-kong.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-hong-kong.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-malaysia.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-malaysia.page
+www.rbcis.com,https://www.rbcis.com/fr/s/investor-counsellor-resources/reference-guide-agreementsandforms.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/login/investor-counsellor-services.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Fshare-class-hedging,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Fshare-class-hedging
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Ffx-spotlight-jul-26,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Ffx-spotlight-jul-26
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/press-releases.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/media/press-releases.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/regulators.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/regulators.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/code-of-conduct.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/code-of-conduct.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/report-on-controls.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/report-on-controls.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/privacy.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/privacy.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/anti-money-laundering-certifications.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/anti-money-laundering-certifications.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/make-a-complaint.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/make-a-complaint.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-related-to-market-data.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/srd-ii-costs-disclosure.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance/srd-ii-costs-disclosure.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/careers/careers-internships.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/careers/careers-internships.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/careers/careers-graduates.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/careers/careers-graduates.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/careers/careers-professionals.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/careers/careers-professionals.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/careers/careers-technology.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/careers/careers-technology.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/our-priorities/governance-integrity.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/our-priorities/governance-integrity.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/our-priorities/value-for-clients.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/our-priorities/value-for-clients.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/our-priorities/value-for-employees.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/our-priorities/value-for-employees.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/our-priorities/value-for-society.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/citizenship/our-priorities/value-for-society.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/legal.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/legal.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/security.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/security.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/document-centre-terms-of-use.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/document-centre-terms-of-use.page
+www.rbcis.com,https://www.rbcis.com/en/s/gmi/terms-and-conditions/canada/policies-and-procedures.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/en/s/gmi/terms-and-conditions/securities-lending.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/en/s/gmi/tax-bulletins/tax-bulletins.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/gmi-tax-bulletins.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance.page
+www.rbcis.com,https://www.rbcis.com/en/login/sas.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/gmi/drip,page,200,text/html,deduplicated,prior successful public page,same final page as https://apps.rbcits.com/gmi/drip/
+www.rbcis.com,https://www.rbcis.com/en/our-insights/understanding-etfs.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights/creating-redeeming-servicing-etfs.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/our-insights/adapting-through-innovation.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc.com,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc.com/peopleandplanet,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/european-privacy-policy-statement.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/european-privacy-policy-statement.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/use-of-sub-processors-in-europe.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/use-of-sub-processors-in-europe.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/governance/complaint-handling-summary.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/governance/complaint-handling-summary.page
+www.rbcis.com,https://www.rbcis.com/en/login/cash-management-terms-and-conditions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/investor-services-online-service-desk.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/who-we-are/our-locations.page
+www.rbcis.com,https://www.rbcis.com/en/security.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 5 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page,page,200,text/html,scanned,prior successful public page,17 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 19 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/updates.page,page,200,text/html,scanned,prior successful public page,10 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/login/investor-counsellor-services.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/login/investor-counsellor-services.page
+www.rbcis.com,https://www.rbcis.com/en/login/bbe-cm.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 4 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/pensioner-resources.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page,page,200,text/html,scanned,prior successful public page,9 external scripts; 10 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/who-we-are/governance.page
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/european-privacy-policy-statement.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/use-of-sub-processors-in-europe.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/complaint-handling-summary.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/privacy.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/privacy.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/terms-of-use.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/terms-of-use.page
+www.rbcis.com,https://www.rbcis.com/en/s/gmi/terms-and-conditions/terms-and-conditions.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/gmi-terms-and-conditions.page
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=4,page,200,text/html,deduplicated,prior successful public page,same final page as https://apps.rbcits.com/OnlineTools/bancoval2.html
+www.rbcis.com,https://www.rbcis.com/en/s/governance/sas.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/sas.page
+www.rbcis.com,https://www.rbcis.com/en/s/gmi/terms-and-conditions/rbcis-cash-benchmark-rates.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/en/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/rbc-one-help.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/gmi/global-custody.page
+www.rbcis.com,https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page,page,200,text/html,scanned,prior successful public page,7 external scripts; 8 inline blocks
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/s/gmi/terms-and-conditions/canada/policies-and-procedures.page,page,200,text/html,deduplicated,prior successful public page,same final page as https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/outlook.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 7 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/de-risking.page,page,200,text/html,scanned,prior successful public page,8 external scripts; 6 inline blocks
+apps.rbcits.com,https://apps.rbcits.com/downloads,page,404,text/html,excluded,https://apps.rbcits.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/documents,page,403,text/html,excluded,https://www.rbcis.com/robots.txt,individual inaccessible/rate-limited URL skipped; crawl continued
+www.rbcis.com,https://www.rbcis.com/rbcits_fr,page,200,text/html,deduplicated,https://www.rbcis.com/robots.txt,same final page as https://www.rbcis.com/fr
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/docs/uploads,page,403,text/html,excluded,https://www.rbcis.com/robots.txt,individual inaccessible/rate-limited URL skipped; crawl continued
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/secure/docs,page,403,text/html,excluded,https://www.rbcis.com/robots.txt,individual inaccessible/rate-limited URL skipped; crawl continued
+www.rbcis.com,https://www.rbcis.com/documents/en,page,403,text/html,excluded,https://www.rbcis.com/robots.txt,individual inaccessible/rate-limited URL skipped; crawl continued
+www.rbcis.com,https://www.rbcis.com/documents/en/client-sign-in/rbc-one-help.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/home-old.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/fx-solutions.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/at-a-glance.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-serve/exchange-traded-funds-administration.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/capapp.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/trade-management-solution.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/trade-management-solution,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/trade-management-solution.page,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/trade-management-solution,page,404,text/html,excluded,https://www.rbcis.com/robots.txt,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,page,301,text/html,excluded,https://www.rbcis.com/en/,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Ffx-spotlight-aug-26,page,301,text/html,excluded,https://www.rbcis.com/en/,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fpooled-fund-survey-q2-26,page,301,text/html,excluded,https://www.rbcis.com/en/,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/events.page,page,404,text/html,excluded,https://www.rbcis.com/en/,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/s/gmi/tax-bulletins/tax-bulletins.page,page,BLOCKED_REDIRECT,,excluded,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/login/gmi-tax-bulletins.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/p_MarketInsightsOverview.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/gmi/drip/,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/our-insights.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/p_GlobalMarketInformation.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/gmi/drip/,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/gmi/global-custody.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/p_DRIPReports.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/gmi/drip/,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/s/bbe/drip-reports.page
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Fshare-class-hedging,page,301,text/html,excluded,https://www.rbcis.com/en/how-we-help/securities-finance-solutions.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Ffx-spotlight-jul-26,page,301,text/html,excluded,https://www.rbcis.com/en/how-we-help/securities-finance-solutions.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/how-we-help/trade-management-solution.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/pillar3-regulatory-disclosures.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caceis/general-terms-and-conditions.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/s/investor-counsellor-resources/reference-guide-agreementsandforms.page,page,BLOCKED_REDIRECT,,excluded,https://www.rbcis.com/en/gmi/global-custody.page,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/login/investor-counsellor-services.page
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/terms-of-use.page,page,404,text/html,excluded,https://www.rbcis.com/en/terms-of-use.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caceis/best-execution-reports-bank.page,page,404,text/html,excluded,https://www.rbcis.com/en/terms-of-use.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/disclaimer.page,page,404,text/html,excluded,https://www.rbcis.com/en/terms-of-use.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/central-securities-depositories-regulation-disclosure-documents.page,page,404,text/html,excluded,https://www.rbcis.com/en/terms-of-use.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/report-on-controls.page,page,404,text/html,excluded,https://www.rbcis.com/en/terms-of-use.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/pensioner-resources%5D,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-jersey.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/our-locations/contact-us-japan.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/securities-finance-solutions.page%22,page,404,text/html,excluded,https://www.rbcis.com/fr/how-we-help/unity-fx.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/fx-solutions.page,page,404,text/html,excluded,https://www.rbcis.com/fr/how-we-help/unity-fx.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/at-a-glance,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/media.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/pillar3-regulatory-disclosures.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/caceis/regulators.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/pillar3-regulatory-disclosures.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/caceis/regulators.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/citizenship/our-priorities/environment-sustainability.page,page,404,text/html,excluded,https://www.rbcis.com/fr/citizenship.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/best-execution-reports.page,page,404,text/html,excluded,https://www.rbcis.com/fr/disclaimers.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/s/gmi/terms-and-conditions/canada/policies-and-procedures.page,page,BLOCKED_REDIRECT,,excluded,https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/Test,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/docs/gmi/entitlements/,page,403,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,individual inaccessible/rate-limited URL skipped; crawl continued
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/PEMBROKE%20PROPERTY%20FINANCE%20DAC%20FRN%20M/BKD%2006/2040%20EUR100000%20'AV''A''REGS,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/10279660_KR103502GA67_2100003235002_CONV,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/10302279_XS1916387431_AC15029092,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/10302521_XS1112834608_AC15041601,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/10306364%20-%20XS2431318711-AC15276508-CHAN-26122022,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/10306369%20-%20XS2431319107-AC15276513-CHAN-26122022,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/assets/assets/rbcits/docs/gmi/entitlements,page,404,text/html,excluded,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/rbc.com,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/rbc.com/peopleandplanet,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/aboutus/amlc-index.html,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/regulators.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caceis/disclaimer.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/make-a-complaint.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caceis/report-on-controls.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/make-a-complaint.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/login/cash-management-terms-and-conditions.page,page,200,text/html,deduplicated,https://www.rbcis.com/en/who-we-are/governance/cash-benchmark-rates.page,same final page as https://www.rbcis.com/en/login/cash-management-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-usa.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-belgium.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-france.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-ireland.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-jersey.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-luxembourg.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-switzerland.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-china.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-japan.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/who-we-are/our-locations/contact-us-malaysia.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/our-locations.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits/client-sign-in/investor-services-online-service-desk.page,page,200,text/html,deduplicated,https://www.rbcis.com/en/client-sign-in/rbc-one.page,same final page as https://www.rbcis.com/en/client-sign-in/investor-services-online-service-desk.page
+www.rbcis.com,https://www.rbcis.com/rbcits/security.page,page,200,text/html,deduplicated,https://www.rbcis.com/en/document-centre-terms-of-use.page,same final page as https://www.rbcis.com/en/security.page
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/dpo@rbc.com,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/european-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/terms-and-conditions-related-to-market-data.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caceis/central-securities-depositories-regulation-disclosure-documents.page,page,404,text/html,excluded,https://www.rbcis.com/en/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/market-newsflash.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/terms-and-conditions.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/tax-profiles.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/market-profiles.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/holiday-calendar.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/entitlements.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/entitlements.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/gmi/global-custody/updates.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody.page,same final page as https://www.rbcis.com/fr/gmi/global-custody/updates.page
+www.rbcis.com,https://www.rbcis.com/en/s/bbe-cm/canadian-cash-management-bulletins.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/client-sign-in-bbe.page,same final page as https://www.rbcis.com/en/login/bbe-cm.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/s/investor-counsellor-resources/reference-guide-agreementsandforms.page,page,BLOCKED_REDIRECT,,excluded,https://www.rbcis.com/fr/login/investor-counsellor-services.page,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/fr/login/investor-counsellor-services.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/how-we-help/pensioner-resources.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/how-we-help/2023-market-services-transcript.page,same final page as https://www.rbcis.com/fr/how-we-help/pensioner-resources.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/view-article.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/how-we-help/2023-market-services-transcript.page,same final page as https://www.rbcis.com/fr/our-insights/view-article.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/our-insights/pathways-to-sustainability.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/how-we-help/2023-market-services-transcript.page,same final page as https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,same final page as https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/european-privacy-policy-statement.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/governance/privacy.page,same final page as https://www.rbcis.com/fr/who-we-are/governance/european-privacy-policy-statement.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/use-of-sub-processors-in-europe.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/governance/privacy.page,same final page as https://www.rbcis.com/fr/who-we-are/governance/use-of-sub-processors-in-europe.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/governance/privacy.page,same final page as https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page
+www.rbcis.com,https://www.rbcis.com/rbcits_fr/who-we-are/governance/complaint-handling-summary.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/who-we-are/governance/make-a-complaint.page,same final page as https://www.rbcis.com/fr/who-we-are/governance/complaint-handling-summary.page
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolOverview.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/client-sign-in.page
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_AboutUsOverview.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/who-we-are.page
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_ContactUs.aspx,page,404,text/html,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/Legal/p_Privacy.aspx,page,404,text/html,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/Legal/p_Legal.aspx,page,404,text/html,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_SiteMap.aspx,page,404,text/html,excluded,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/Legal/p_LegalOverview.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/CorporateGovernance/p_Governance.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_GroupExecutive.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_ExecutiveTeam.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/p_Awards.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/Newsroom/p_NewsroomOverview.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/AboutUs/Careers/p_Careers.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/Legal/p_DocumentTermsOfUse.aspx,page,404,text/html,excluded,https://apps.rbcits.com/Security/p_Security.aspx,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/form.add.asp,page,500,text/html,excluded,https://apps.rbcits.com/cmpn/opportunity/form.guides.asp,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/InvestmentCounsellorServices/p_Resources.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/s/investor-counsellor-resources/reference-guide.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/p_Econoscope.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/our-insights.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/p_PooledFundSurveys.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/our-insights.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/InvestmentCounsellorServices/p_ReferenceGuide.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/s/investor-counsellor-resources/reference-guide-agreementsandforms.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/InvestmentCounsellorServices/p_TaxGuides.aspx,page,BLOCKED_REDIRECT,,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,redirect target outside exact HTTPS/default-port scope: https://www.rbcits.com/en/s/investor-counsellor-resources/reference-guide.page
+apps.rbcits.com,https://apps.rbcits.com/MarketInsights/LearningExchange/p_LearningExchangeOverview.aspx,page,404,text/html,excluded,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/our-insights/keyterms,page,404,text/html,excluded,https://www.rbcis.com/en/our-insights/understanding-etfs.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/our-insights/figure1,page,404,text/html,excluded,https://www.rbcis.com/en/our-insights/creating-redeeming-servicing-etfs.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/our-insights/figure2,page,404,text/html,excluded,https://www.rbcis.com/en/our-insights/creating-redeeming-servicing-etfs.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/our-insights/figure3,page,404,text/html,excluded,https://www.rbcis.com/en/our-insights/creating-redeeming-servicing-etfs.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/s/gmi/terms-and-conditions/canada/policies-and-procedures.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page,same final page as https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/Test,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/PEMBROKE%20PROPERTY%20FINANCE%20DAC%20FRN%20M/BKD%2006/2040%20EUR100000%20'AV''A''REGS,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/10279660_KR103502GA67_2100003235002_CONV,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/10302279_XS1916387431_AC15029092,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/10302521_XS1112834608_AC15041601,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/10306364%20-%20XS2431318711-AC15276508-CHAN-26122022,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/10306369%20-%20XS2431319107-AC15276513-CHAN-26122022,page,404,text/html,excluded,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/funded-status.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-adoption.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/challenges.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-asset-classes.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/covid19-responses.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-investment-models.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/pension-sustainability.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/socially-responsible-investing.page,page,200,text/html,scanned,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,8 external scripts; 6 inline blocks
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/regulators.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/privacy.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/european-privacy-policy-statement.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/use-of-sub-processors-in-europe.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/jersey-guernsey-privacy-policy-statement.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/complaint-handling-summary.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/make-a-complaint.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/best-execution-reports.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/caseis/governance/terms-and-conditions-for-foreign-exchange-services.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/%20/caseis/governance/srd-ii-costs-disclosure.page,page,404,text/html,excluded,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/fr/s/gmi/terms-and-conditions/terms-and-conditions.page,page,200,text/html,deduplicated,https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page,same final page as https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jquery.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 252 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jquery.easing.1.3.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 251 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/bootstrap.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 252 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/scripts.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 252 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/geotarget.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 249 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/en.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 117 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jquery.waypoints.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 4 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/slick.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 50 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/stats-marquee.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/,referenced by 7 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/fr.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/,referenced by 135 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/geotarget.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/,referenced by 3 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/waypoints.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/,referenced by 3 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/cookieconsent.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,referenced by 224 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/knockout-latest.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,referenced by 11 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/market-newsflash-25.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jquery.cookie.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,referenced by 16 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/media-inquiries-responsive.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,referenced by 1 page(s)
+apps.rbcits.com,https://apps.rbcits.com/gmi/js/jquery-1.12.2.min.js,script,200,application/javascript,scanned,https://apps.rbcits.com/gmi/drip/,referenced by 1 page(s)
+apps.rbcits.com,https://apps.rbcits.com/gmi/js/knockout-3.4.0.js,script,200,application/javascript,scanned,https://apps.rbcits.com/gmi/drip/,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/how-we-help-carousel.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/how-we-help.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/realestate-privateequity-video.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/how-we-help/asset-managers.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/aos-new.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/how-we-help/custody-solutions.page,referenced by 20 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/countUp.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/how-we-help/custody-solutions.page,referenced by 10 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/services-stat-solutions.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/how-we-help/shareholder-services-solutions.page,referenced by 6 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/insights/insights-ri.9.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/our-insights.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/trusted-accuracy.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/who-we-are.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/who-we-are-form-en.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/who-we-are.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/news.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/who-we-are/media.page,referenced by 4 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/owl.carousel.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/citizenship.page,referenced by 9 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/mainpage.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/global-study.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/ourlocs.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/who-we-are/our-locations.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/fr/assets/rbcits/js/realestate-privateequity-video.js,script,404,text/html,excluded,https://www.rbcis.com/fr/how-we-help/insurance-companies.page,non-2xx
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/knockout-3.4.0.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/our-insights.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/insights/insights-ri.11.fr.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/our-insights.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/who-we-are-form-fr.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/who-we-are.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/angular.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,referenced by 6 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/angular.min.js.map,source-map,404,text/html,excluded,https://www.rbcis.com/assets/rbcits/js/angular.min.js,public source map
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/xml2json.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,referenced by 6 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/secnav.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page,referenced by 4 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/tax-bulletins-23.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/market-profiles.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/market-profiles.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/moment.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/moment.min.js.map,source-map,404,text/html,excluded,https://www.rbcis.com/assets/rbcits/js/moment.min.js,public source map
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/fullcalendar.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/bootstrap-year-calendar.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/jspdf.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/jspdf.plugin.autotable.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/holiday-calendar-26-1-bundle.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/hide-holidays.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/updates-25.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/gmi/global-custody/updates.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/story-shortener.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,referenced by 19 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/nav.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,referenced by 19 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jsrender.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,referenced by 19 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jsrender.min.js.map,source-map,404,text/html,excluded,https://www.rbcis.com/assets/rbcits/js/jsrender.min.js,public source map
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/story-related.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,referenced by 10 page(s)
+use.fontawesome.com,https://use.fontawesome.com/6c097a09a7.js,script,200,text/javascript,scanned,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,referenced by 19 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/jquery-3.4.1.min.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/who-we-are/governance/use-of-sub-processors-in-europe.page,referenced by 2 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/story-related-fr.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/insights/2026/08/monthly-forecast-update-aug26,referenced by 9 page(s)
+www.rbcits.com,https://www.rbcits.com/JS/jquery.min.js,script,200,application/x-javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+www.rbcits.com,https://www.rbcits.com/JS/ImageRollovers.js,script,200,application/x-javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+www.rbcits.com,https://www.rbcits.com/JS/CssInclude.js,script,200,application/x-javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+www.rbcits.com,https://www.rbcits.com/JS/api.js,script,200,application/x-javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+www.rbcits.com,https://www.rbcits.com/JS/MenuApi.js,script,200,application/x-javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+apps.rbcits.com,https://apps.rbcits.com/JS/webtrends.js,script,200,application/javascript,scanned,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,referenced by 15 page(s)
+ajax.googleapis.com,https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js,script,200,text/javascript,scanned,https://apps.rbcits.com/cmpn/opportunity/,referenced by 2 page(s)
+ajax.googleapis.com,https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.map,source-map,200,application/json,scanned,https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js,public source map
+ajax.googleapis.com,https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.map,source-map,200,application/json,partial,https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js,map has no inspectable sourcesContent
+ajax.aspnetcdn.com,https://ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.min.js,script,200,application/javascript,scanned,https://apps.rbcits.com/cmpn/opportunity/,referenced by 2 page(s)
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/scripts/jquery.fancybox.js,script,200,application/javascript,scanned,https://apps.rbcits.com/cmpn/opportunity/,referenced by 2 page(s)
+apps.rbcits.com,https://apps.rbcits.com/JS/PluginDetect.js,script,200,application/javascript,scanned,https://apps.rbcits.com/onlinetools/p_browsertest.aspx,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/market-newsflash-25-fr.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/tax-bulletins.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/holiday-calendar-24.1-bundle.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/sub/gmi/holiday-calendar.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page,referenced by 1 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/redirect.js,script,200,application/x-javascript,scanned,https://www.rbcis.com/en/login/bbe-cm.page,referenced by 1 page(s)
+feedback.achievers.com,https://feedback.achievers.com/api/v1/accounts/200/poll_campaigns/p2eJwzMjcyMTcDAARNAT0/show/Feedback272476_1_dynamic/english.js?v=,script,200,application/javascript,scanned,https://www.rbcis.com/assets/rbcits/js/sub/who-we-are-form-en.js,referenced by 0 page(s)
+feedback.achievers.com,https://feedback.achievers.com/api/v1/accounts/200/poll_campaigns/p2eJwzMjcysTAEAARKATk/show/Feedback272481_1_dynamic/english.js?v=,script,200,application/javascript,scanned,https://www.rbcis.com/assets/rbcits/js/sub/who-we-are-form-fr.js,referenced by 0 page(s)
+www.rbcis.com,https://www.rbcis.com/assets/rbcits/js/locale/,script,404,text/html,excluded,https://www.rbcis.com/assets/rbcits/js/moment.min.js,non-2xx
+cdnjs.cloudflare.com,https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js,script,200,application/javascript,scanned,https://www.rbcis.com/assets/rbcits/js/sub/gmi/jspdf.min.js,referenced by 0 page(s)
+use.fontawesome.com,https://use.fontawesome.com/js/stats.js,script,404,text/html,excluded,https://use.fontawesome.com/6c097a09a7.js,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/wtid.js,script,404,text/html,excluded,https://apps.rbcits.com/JS/webtrends.js,non-2xx
+apps.rbcits.com,https://apps.rbcits.com/,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/gmi/drip/,page-recheck,200,,scanned,attachment reconciliation,2 script tags
+apps.rbcits.com,https://apps.rbcits.com/gmi/drip/faxsheet.html,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=8,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=3,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=8,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/bancoval2.html,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/Security/p_Security.aspx,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/Security/p_Security.aspx?lang=fr,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=1,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=2,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=3,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_onlinetooldetail.aspx?onlinetoolid=7,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/bancoval2.html,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/web/comm/20131204-sprating.html,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/security/p_security.aspx,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/security/p_security.aspx?lang=fr,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/,page-recheck,200,,scanned,attachment reconciliation,3 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/form.guides.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.guides.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/form.package.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.package.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.map.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.frontier.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/more.ucits.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/contact.asp,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+apps.rbcits.com,https://apps.rbcits.com/cmpn/opportunity/index.asp,page-recheck,200,,scanned,attachment reconciliation,3 script tags
+apps.rbcits.com,https://apps.rbcits.com/marketinsights/investmentcounsellorservices/p_taxguides.aspx?lang=fr,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/onlinetools/p_browsertest.aspx,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_OnlineToolDetail.aspx?onlineToolID=1,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+apps.rbcits.com,https://apps.rbcits.com/OnlineTools/p_ViewfinderRecommendedTechnicalEnvironment.aspx,page-recheck,200,,scanned,attachment reconciliation,6 script tags
+www.rbcis.com,https://www.rbcis.com/,page-recheck,200,,scanned,attachment reconciliation,0 script tags
+www.rbcis.com,https://www.rbcis.com/en/,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/market-newsflash.page,page-recheck,200,,scanned,attachment reconciliation,11 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/contact.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/pensioner-resources.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/home.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/asset-managers.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/insurance-companies.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/family-offices-investment-counsellors.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/pension-funds.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/custody-solutions.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/shareholder-services-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/fund-administration-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/etf-administrative-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/collateral-management-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/securities-finance-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/fx-solution.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/currency-overlay-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/unity-fx.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are.page,page-recheck,200,,scanned,attachment reconciliation,11 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/leadership/our-leadership.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/citizenship.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/citizenship/investing-in-youth.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/citizenship/protecting-the-environment.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/citizenship/support-for-creatives.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/08/rbc_investor_services_named_operations_team_of_the_year,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/06/rbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody.page,page-recheck,200,,scanned,attachment reconciliation,11 script tags
+www.rbcis.com,https://www.rbcis.com/en/privacy.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/terms-of-use.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/disclaimers.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-uk.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/client-sign-in.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/home.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/asset-managers.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/insurance-companies.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/family-offices-investment-counsellors.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/pension-funds.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/custody-solutions.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/shareholder-services-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/fund-administration-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/etf-administrative-solutions.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/collateral-management-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/securities-finance-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/fx-solution.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/currency-overlay-solutions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/unity-fx.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are.page,page-recheck,200,,scanned,attachment reconciliation,11 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/contact.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/leadership/our-leadership.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/investing-in-youth.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/protecting-the-environment.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/support-for-creatives.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/07/rbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/06/rbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fmonthly-forecast-update-aug26,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Ffx-spotlight-aug-26,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F08%2Fpooled-fund-survey-q2-26,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/events.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/privacy.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/terms-of-use.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/disclaimers.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/terms-and-conditions.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/tax-profiles.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/market-profiles.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/holiday-calendar.page,page-recheck,200,,scanned,attachment reconciliation,15 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/entitlements.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/securities-lending.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/gmi/global-custody/updates.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/gmi-tax-bulletins.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/report-on-controls.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/bbe.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-canada.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations/contact-us-guernsey.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in-bbe.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/investor-counsellor-services.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/awards-rankings.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/how-we-help/2023-market-services-transcript.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights/a-primer-on-etfs.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/monthly-forecast-update-aug26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/fx-spotlight-aug-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/08/pooled-fund-survey-q2-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/canadian-pension-returns-q2-2026,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/share-class-hedging,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/monthly-forecast-update-jul26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/ai-readiness-podcast,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/07/fx-spotlight-jul-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2026/06/market-regulatory-digest-jun26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights/transcripts/who-we-are-video.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/insights/2025/05/getting_data_right,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/canadian_defined_benefit,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/press-releases.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/regulators.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/code-of-conduct.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/privacy.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/make-a-complaint.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/srd-ii-costs-disclosure.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/cash-benchmark-rates.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/british-columbia-financial-institutions-act-filing.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/use-of-sub-processors-in-europe.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/our-locations.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers/careers-internships.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/citizenship/supporting-emerging-artists.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/rbc-one.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/legal.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/document-centre-terms-of-use.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/european-privacy-policy-statement.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/governance/complaint-handling-summary.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/event-and-conference-disclaimer-disclosure.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/communication-and-presentation-disclaimer-disclosure.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/disclaimer/rbcis-role-global-currencies-markets.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-canada.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-usa.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-france.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-guernsey.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-ireland.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-luxembourg.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-switzerland.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-uk.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-australia.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-china.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-hong-kong.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/our-locations/contact-us-malaysia.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/client-sign-in-bbe.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/login/investor-counsellor-services.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/banks-brokers-exchanges.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/insurers.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/investment-counsellors.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/sovereign-wealth-funds.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/awards-rankings.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Fshare-class-hedging,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2026%2F07%2Ffx-spotlight-jul-26,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/2023-market-services-transcript.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/monthly-forecast-update-aug26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/fx-spotlight-aug-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/08/pooled-fund-survey-q2-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/canadian-pension-returns-q2-2026,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/share-class-hedging,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/monthly-forecast-update-jul26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/ai-readiness-podcast,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/07/fx-spotlight-jul-26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/insights/2026/06/market-regulatory-digest-jun26,page-recheck,200,,scanned,attachment reconciliation,12 script tags
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/08/rbc_investor_services_named_operations_team_of_the_year,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/news/2026/07/canadian_defined_benefit,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F08%2Frbc_investor_services_named_operations_team_of_the_year,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Fcanadian_defined_benefit,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F07%2Frbc_investor_services_named_best_sub-custodian_in_canada_by_global_finance_magazine,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F06%2Frbc_investor_services_surpasses_3_trillion_assets_under_administration_with_strong_momentum_in_canadian_market,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F04%2Fcanadian_pension_plans_gained,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/press-releases.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/regulators.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/code-of-conduct.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/report-on-controls.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/privacy.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/anti-money-laundering-certifications.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/make-a-complaint.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-for-foreign-exchange-services.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/terms-and-conditions-related-to-market-data.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/central-securities-depositories-regulation-disclosure-documents.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/srd-ii-costs-disclosure.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/british-columbia-financial-institutions-act-filing.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-internships.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-graduates.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-professionals.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/careers/careers-technology.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/governance-integrity.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-clients.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-employees.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/our-priorities/value-for-society.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_future_launch,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_race_for_the_kids,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/citizenship/view-article.page?dcr=templatedata%2Farticle%2Fcitizenship%2Fdata%2F2019%2F02%2Frbc_trade_for_the_kids,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/home,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/legal.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/security.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/document-centre-terms-of-use.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/disclaimer/rbcis-role-global-currencies-markets.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/gmi-terms-and-conditions.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/careers/careers-graduates.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/sas.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights/understanding-etfs.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights/creating-redeeming-servicing-etfs.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/our-insights/adapting-through-innovation.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc.com,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/news/2026/07/rbc.com/peopleandplanet,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/cash-management-terms-and-conditions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/investor-services-online-service-desk.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/security.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/market-newsflash.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/terms-and-conditions.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/tax-profiles.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/market-profiles.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/holiday-calendar.page,page-recheck,200,,scanned,attachment reconciliation,17 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/entitlements.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/gmi/global-custody/updates.page,page-recheck,200,,scanned,attachment reconciliation,10 script tags
+www.rbcis.com,https://www.rbcis.com/en/login/bbe-cm.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/how-we-help/pensioner-resources.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/view-article.page,page-recheck,200,,scanned,attachment reconciliation,9 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2026%2F01%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F10%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F07%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F04%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/media/view-article.page?dcr=templatedata%2Farticle%2Fnews%2Fdata%2F2025%2F01%2Fcanadian_defined_benefit_pension_plans,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/european-privacy-policy-statement.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/use-of-sub-processors-in-europe.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/jersey-guernsey-privacy-policy-statement.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/who-we-are/governance/complaint-handling-summary.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/en/client-sign-in/rbc-one-help.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/login/gmi-terms-and-conditions.page,page-recheck,200,,scanned,attachment reconciliation,7 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/outlook.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/de-risking.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/funded-status.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-adoption.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/challenges.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-asset-classes.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/covid19-responses.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/alternatives-investment-models.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/pension-sustainability.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
+www.rbcis.com,https://www.rbcis.com/fr/our-insights/pathways-to-sustainability/socially-responsible-investing.page,page-recheck,200,,scanned,attachment reconciliation,8 script tags
