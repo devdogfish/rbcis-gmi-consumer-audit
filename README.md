@@ -11,6 +11,8 @@ GMI is a shared service used by RBC Investor Services pages. This audit identifi
 - 77 scripts call GMI; 64 contain client-embedded authentication.
 - 24 page-to-script imports and 168 consumer records; 68 GMI scripts had no public importing page identified.
 
+Observation: Most identified GMI calls with client-embedded authentication are implemented in JavaScript served from `/assets/rbcits/js/sub/gmi/`.
+
 ## 1. DRIP page finding
 
 | Page | JavaScript source | GMI endpoint | Request | Access | Authentication | Summary |
