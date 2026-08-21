@@ -18,7 +18,7 @@ GMI is a shared service used by RBC Investor Services pages to retrieve informat
 
 **Public** means a call was connected to a reachable public page. **Unmapped** means the JavaScript contains a GMI call, but no importing page was found in the public page set; it does not mean the script is unused. **Client-embedded authentication** means authentication material was present in publicly delivered JavaScript. Credential values were deliberately excluded from every published file.
 
-## 1. DRIP page example
+## 1. DRIP page finding
 
 | Page | JavaScript source | GMI endpoint | Request | Access | Authentication | Summary |
 |---|---|---|---|---|---|---|
